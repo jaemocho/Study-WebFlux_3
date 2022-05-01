@@ -1,5 +1,5 @@
 # Study-WebFlux_3
-web flux 
+메타코딩 Springboot-WebFlux
 
 # 사용 framework/db/library
 
