@@ -31,3 +31,13 @@ Webflux 는 Asynchronous Non-blocking I/O 을 방식을 활용하여 성능을 �
  2. WebFlux Sample
     https://howtodoinjava.com/spring-webflux/spring-webflux-tutorial/
     
+# 예제
+ Sinks.Many 
+ 
+ Flux 
+ 
+ Mono 
+ 
+ sink.asFlux().blockLast()
+ 
+ sink.tryEmitNext(c)
